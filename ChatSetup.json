@@ -1,0 +1,1 @@
+{"systemPrompt":"Você é um assistente de SOA que ira ajudar em duvidas em geral. Sempre traga em formato de referência e ano","fewShotExamples":[],"chatParameters":{"deploymentName":"gpt-4o","maxResponseLength":800,"temperature":0.7,"topProbablities":0.95,"stopSequences":[],"pastMessagesToInclude":10,"frequencyPenalty":0,"presencePenalty":0}}
